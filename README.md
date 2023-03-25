@@ -11,4 +11,4 @@
 
 <br>
 
-<p>Clone da capa do site do iPhone, com a intenção de mostrar a variedadade de funcionalidades que estão disponiveis para você que deseja um para seu comércio ou empresa<p>
+<p>Clone da capa do site do iPhone, com a intenção de mostrar a variedadade de funcionalidades que estão disponiveis para você que  deseja uma forma de divulgação para seu comércio ou empresa<p>
