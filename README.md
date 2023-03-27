@@ -12,3 +12,8 @@
 <br>
 
 <p>Clone da capa do site do iPhone, com a intenção de mostrar a variedadade de funcionalidades que estão disponiveis para você que  deseja uma forma de divulgação para seu comércio ou empresa!<p>
+<br>
+<h2>Tecnologias utilizadas<h2>
+<p>HTML<p>
+<p>CSS<p>
+<p>JavaScript<p>
